@@ -59,3 +59,11 @@ bear in mind that your phone may have slightly different options.
 3. go to `AI Circle Search`
 
 4. toggle `AI Circle Search` to `off`
+
+--
+
+## degoogle
+
+most android devices come shipped with many Google apps that have AI features baked in, one option to escape this is to install alternative operating systems like [GrapheneOS](https://grapheneos.org/) if your device supports it.
+
+**disclaimer:** this option requires technical know-how and may result in some phone features being disabled.
