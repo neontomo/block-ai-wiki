@@ -28,8 +28,18 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ### apps & websites
 - [Google Search](?id=google-search)
 - Gmail - coming soon
+- Keep - coming soon
 - YouTube - coming soon
 - Slack - coming soon
+- Instagram - coming soon
+- Facebook - coming soon
+- Reddit - coming soon
+- X - coming soon
+- WhatsApp - coming soon
+- LinkedIn - coming soon
+- Pinterest - coming soon
+- Outlook - coming soon
+- [DuckDuckGo](?id=duckduckgo)
 - [VSCode](?id=vscode)
 
 ### computers
