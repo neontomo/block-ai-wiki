@@ -27,7 +27,9 @@ const getFromFile = (fileName) => {
 			}
 
 			const pageTitle = markdown.split("\n")?.[0]?.match(/^# (.+)/)?.[1];
-			if (pageTitle) document.title = `${document.title} - ${pageTitle}`;
+			if (pageTitle && pageTitle !== "block AI.wiki") {
+				document.title = `${document.title} - ${pageTitle}`;
+			}
 
 			const sections = markdown.split("\n--\n");
 

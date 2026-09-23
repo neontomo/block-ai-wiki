@@ -1,4 +1,4 @@
-# ![robot](/img/robot.svg) block AI.wiki
+# block AI.wiki
 
 welcome stranger! my goal is for this wiki to be a powerful repository on how to avoid AI content on the internet. as I struggled to find the information I needed myself, I decided to stop waiting and simply build it. it is born out of a deep frustration and my unyielding resistance to engaging with AI at all in my life, full stop.
 
