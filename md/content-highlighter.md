@@ -23,3 +23,9 @@ to learn more about how I target AI content, have a look at [how I spot AI writi
 ### step 2. install the user script
 
 - [content-highlighter.user.js](/user-scripts/content-highlighter.user.js)
+
+--
+
+## screenshot
+
+![screenshot](/img/highlighter.webp)
