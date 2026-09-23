@@ -18,5 +18,11 @@ unfortunately, none of these steps will ensure that your device is clean from AI
 
 --
 
+## see also
+- [Mac](?id=mac)
+- [iPhone](?id=iphone)
+
+--
+
 ## sources
 - [Use Apple Intelligence on your Mac](https://support.apple.com/en-gb/guide/mac-help/mchl46361784/mac)

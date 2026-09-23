@@ -1,5 +1,7 @@
 # Mac
 
+unfortunately, none of these steps will ensure that your device is clean from AI, but it will dramatically limit how much you see it in your day-to-day.
+
 --
 
 ## disable Siri
@@ -74,6 +76,12 @@ you can restrict access to third-party AI provider extensions — like ChatGPT.
 5. click `Intelligence & Siri`
 
 6. turn off `Intelligence Extensions`
+
+--
+
+## see also
+- [iPad](?id=ipad)
+- [iPhone](?id=iphone)
 
 --
 
