@@ -34,6 +34,9 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 - [iPad](/?id=ipad)
 - [Android](/?id=android)
 
+### browsers
+- Chrome - coming soon
+
 --
 
 ## alternative services

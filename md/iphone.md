@@ -1,5 +1,7 @@
 # iPhone
 
+unfortunately, none of these steps will ensure that your device is clean from AI, but it will dramatically limit how much you see it in your day-to-day.
+
 --
 
 ## disable Siri
