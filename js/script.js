@@ -29,7 +29,7 @@ const getFromFile = (fileName) => {
 			}
 
 			const pageTitle = markdown.split("\n")?.[0]?.match(/^# (.+)/)?.[1];
-			if (pageTitle && pageTitle !== originalTitle) {
+			if (fileName !== "lists" && pageTitle && pageTitle !== originalTitle) {
 				document.title = `${originalTitle} - ${pageTitle}`;
 			}
 
