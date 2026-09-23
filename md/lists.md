@@ -1,6 +1,6 @@
 # ![robot](/icons/robot.svg) block AI.wiki
 
-welcome stranger! the goal of this wiki is to be a powerful repository of information related to avoiding AI content on the internet, as I struggled to find the information I wanted. it is born out of a frustration and unwillingness to engage with AI in any situation, full stop.
+welcome stranger! my goal is for this wiki to be a powerful repository on how to avoid AI content on the internet. as I struggled to find the information I needed myself, I decided to stop waiting and simply build it. it is born out of a deep frustration and my unyielding resistance to engaging with AI at all in my life, full stop.
 
 none of the content on this website, nor the code it's built with, was generated. it's made carefully by hand and supported by fact-checking and academic sources where applicable.
 
@@ -17,7 +17,7 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 
 --
 
-## opt-out of AI
+## opt-out
 
 ### apps & websites
 - Slack - coming soon
@@ -36,11 +36,10 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 
 --
 
-## replacing AI services
+## alternative services
 - coming soon
 
 --
 
 ## articles
 - [how to spot AI writing](/?id=how-to-spot-ai-writing)
-- how to spot AI images - coming soon

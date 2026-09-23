@@ -1,1 +1,1 @@
-[return to start page](/)
+[home](/) - [contributing](/?id=contributing) - [my story](/?id=me)

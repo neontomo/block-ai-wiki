@@ -4,9 +4,9 @@
 
 ## what is it?
 
-a browser script that uses data sourced from academic research papers and from our own experiences to determine common LLM content patterns.
+a browser script that uses data sourced from academic research papers and from my own experiences to determine common LLM content patterns.
 
-to learn more about how we target LLM content, have a look at [how to spot AI writing](/?id=how-to-spot-ai-writing).
+to learn more about how I target AI content, have a look at [how to spot AI writing](/?id=how-to-spot-ai-writing).
 
 --
 

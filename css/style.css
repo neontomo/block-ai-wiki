@@ -1,11 +1,12 @@
-@import url("/css/jetbrainsmono.css");
+@import url("/css/lato.css");
 
 * {
 	box-sizing: border-box;
+	font-family: Lato, Arial, Helvetica, sans-serif;
 }
 
 body {
-	font-family: "JetBrains Mono", "Courier New", Courier, monospace;
+	font-family: Lato, Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	max-width: 100vw;
 	min-height: 100vh;
