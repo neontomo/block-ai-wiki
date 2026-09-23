@@ -14,7 +14,7 @@
 ## step 2. pick filters
 - pick the filters you are interested in
 
-### maintained by us
+### maintained by me
 - [block AI websites](/filters/block-ai-websites.txt)
 
 ### maintained by others
