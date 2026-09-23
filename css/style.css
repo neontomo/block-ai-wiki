@@ -15,9 +15,7 @@ body {
 }
 
 main {
-	width: 50vw;
 	margin: 0 auto;
-	/* TODO: add mobile view */
 }
 
 section {
@@ -46,4 +44,25 @@ code {
 	border-radius: 5px;
 	color: white;
 	word-break: break-all;
+}
+
+/* sm */
+@media (width >= 40rem) {
+	main {
+		width: 80vw;
+	}
+}
+
+/* md */
+@media (width >= 48rem) {
+	main {
+		width: 70vw;
+	}
+}
+
+/* lg */
+@media (width >= 64rem) {
+	main {
+		width: 50vw;
+	}
 }

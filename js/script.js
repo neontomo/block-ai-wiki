@@ -1,4 +1,6 @@
 let mainContentAdded = false;
+const originalTitle = "block AI wiki";
+
 const converter = new showdown.Converter();
 const main = document.getElementsByTagName("main")[0];
 
@@ -27,8 +29,8 @@ const getFromFile = (fileName) => {
 			}
 
 			const pageTitle = markdown.split("\n")?.[0]?.match(/^# (.+)/)?.[1];
-			if (pageTitle && pageTitle !== "block AI.wiki") {
-				document.title = `${document.title} - ${pageTitle}`;
+			if (pageTitle && pageTitle !== originalTitle) {
+				document.title = `${originalTitle} - ${pageTitle}`;
 			}
 
 			const sections = markdown.split("\n--\n");
