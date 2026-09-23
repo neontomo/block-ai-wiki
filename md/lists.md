@@ -5,10 +5,11 @@ welcome stranger! my goal is for this wiki to be a powerful repository on how to
 unfortunately, companies are getting aggressive in removing customer choice, but my philosophy is to attempt to do at least one of these:
 
 1. hide AI content & features
-2. remove AI content & features
-3. opt-out of data sharing
+2. highlight that content is AI
+3. remove AI content & features
+3. opt-out of data sharing with AI
 
-none of the content on this website, nor the code it's built with, was generated. it's made carefully by hand and supported by fact-checking and academic sources where applicable.
+none of the content on this website, nor the code it's built with, was generated. it's made carefully by hand and supported by fact-checking and academic sources where applicable. none of the scripts listed use AI to scan for AI content, either, that would be silly.
 
 if you want to read my story, you can find it here: [my story](/?id=me)
 
@@ -26,21 +27,21 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ## opt-out
 
 ### apps & websites
-- [Google Search](?id=google-search)
-- Gmail - coming soon
-- Keep - coming soon
-- YouTube - coming soon
-- Slack - coming soon
-- Instagram - coming soon
-- Facebook - coming soon
-- Reddit - coming soon
-- X - coming soon
-- WhatsApp - coming soon
-- LinkedIn - coming soon
-- Pinterest - coming soon
-- Outlook - coming soon
 - [DuckDuckGo](?id=duckduckgo)
+- [Google Search](?id=google-search)
+- [Reddit](?id=reddit)
 - [VSCode](?id=vscode)
+- Facebook - coming soon
+- Gmail - coming soon
+- Instagram - coming soon
+- Keep - coming soon
+- LinkedIn - coming soon
+- Outlook - coming soon
+- Pinterest - coming soon
+- Slack - coming soon
+- WhatsApp - coming soon
+- X - coming soon
+- YouTube - coming soon
 
 ### computers
 - [Mac](/?id=mac)

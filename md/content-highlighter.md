@@ -4,9 +4,15 @@
 
 ## what is it?
 
-a browser script that uses data sourced from academic research papers and from my own experiences to determine common LLM content patterns.
+a browser script that uses data sourced from academic research papers and from my own experiences to determine common LLM content patterns that deviate dramatically from how humans normally write.
+
+**disclaimer:** some the patterns are context-dependent. for example, in a Reddit thread it's less human to write "in conclusion" than it would be in a research paper. use your nose.
 
 to learn more about how I target AI content, have a look at [how I spot AI writing](/?id=how-i-spot-ai-writing).
+
+### script last updated
+
+2026-09-24 (YYYY-MM-DD)
 
 --
 
