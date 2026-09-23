@@ -55,5 +55,4 @@ const getFromFile = (fileName) => {
 const { id } = getParams();
 
 getFromFile(id || "lists");
-
-if (id) addFooter();
+addFooter();
