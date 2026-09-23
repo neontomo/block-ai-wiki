@@ -1,5 +1,5 @@
 let mainContentAdded = false;
-const originalTitle = "block AI wiki";
+const originalTitle = "block AI | wiki";
 
 const converter = new showdown.Converter();
 const main = document.getElementsByTagName("main")[0];
