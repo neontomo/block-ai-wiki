@@ -1,4 +1,4 @@
-# how to spot AI writing
+# how I spot AI writing
 
 here are some things to look for if you want to become better at spotting AI-writing, don't want your own writing to be mistaken for an AI, or if you're looking to write your own scripts to limit AI content on the internet.
 
