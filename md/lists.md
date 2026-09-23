@@ -20,10 +20,10 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ## opt-out
 
 ### apps & websites
-- Slack - coming soon
-- Google - coming soon
+- [Google Search](?id=google-search)
 - Gmail - coming soon
 - YouTube - coming soon
+- Slack - coming soon
 
 ### computers
 - [Mac](/?id=mac)
