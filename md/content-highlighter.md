@@ -1,0 +1,25 @@
+# content highlighter
+
+--
+
+## what is it?
+
+a browser script that uses data sourced from academic research papers and from our own experiences to determine common LLM content patterns.
+
+to learn more about how we target LLM content, have a look at [how to spot AI writing](/?id=how-to-spot-ai-writing).
+
+--
+
+## install
+
+### step 1. install a user script browser extension
+
+**Chrome, Microsoft Edge, Safari, Opera Next, and Firefox**
+- [Tampermonkey](https://www.tampermonkey.net) (recommended)
+
+**Firefox only**
+- [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey)
+
+### step 2. install the user script
+
+- [content-highlighter.user.js](/user-scripts/content-highlighter.user.js)

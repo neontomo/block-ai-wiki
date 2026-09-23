@@ -1,0 +1,20 @@
+! Title: blockai.wiki - block AI websites
+! Expires: 1 day
+! Description: block common AI websites from loading entirely
+! Homepage: https://blockai.wiki
+! License: MIT
+
+||chatgpt.com^$all
+||openai.com^$all
+||perplexity.com^$all
+||grok.com^$all
+||x.ai^$all
+||gemini.google.com^$all
+||gemini.google^$all
+||copilot.cloud.microsoft^$all
+||copilot.microsoft.com^$all
+||perplexity.ai^$all
+||anthropic.com^$all
+||claude.com^$all
+||deepseek.com^$all
+||suno.com^$all
