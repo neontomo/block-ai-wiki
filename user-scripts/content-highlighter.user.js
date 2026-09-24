@@ -1363,6 +1363,8 @@ const patterns = {
 		/(^|\s)(versatility)(\s|$)/,
 		/(^|\s)(warranting)(\s|$)/,
 		/(^|\s)(yielding)(\s|$)/,
+		/(^|\s)(cutting-edge)(\s|$)/,
+		/(^|\s)(robust)(\s|$)/,
 	],
 	sentences: [
 		// comparisons
@@ -1527,6 +1529,15 @@ const patterns = {
 		/here are a few of the benefits and drawbacks of/,
 		/but here.{0,1}s the thing/,
 		/let.{0,1}s cut through the hype/,
+
+		// businessy
+		/are you ready to/,
+
+		// phrasal verbs
+		/spin up/, // instead of `start`
+		/reach out/, // instead of `message`
+		/dive into/, // instead of `begin`
+		/add up to/, // instead of `equals`
 	],
 };
 
