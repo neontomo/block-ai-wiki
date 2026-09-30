@@ -22,6 +22,8 @@ to make this step permanent, change your search engine in the browser to point t
 
 - `https://www.google.com/search?q=%s&udm=14`
 
+or you can use the service [udm14.org](https://udm14.org) to automatically add the `&udm=14` to your Google searches.
+
 ### method 3
 
 switch to another search engine that allows you to opt-out of AI. some options are:
