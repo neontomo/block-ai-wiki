@@ -1,7 +1,6 @@
 let mainContentAdded = false;
 const originalTitle = "block AI | wiki";
 
-const converter = new showdown.Converter();
 const main = document.getElementsByTagName("main")[0];
 
 const getParams = () => {
@@ -9,6 +8,12 @@ const getParams = () => {
 	const { id } = { id: params.get("id") };
 
 	return { id };
+};
+
+const changeDocumentTitle = (fileName, pageTitle) => {
+	if (fileName !== "lists" && pageTitle && pageTitle !== originalTitle) {
+		document.title = `${originalTitle} - ${pageTitle}`;
+	}
 };
 
 const addFooter = () => {
@@ -20,38 +25,20 @@ const addFooter = () => {
 	requestAnimationFrame(addFooter);
 };
 
-const getFromFile = (fileName) => {
-	fetch(`md/${fileName}.md`)
-		.then((response) => response.text())
-		.then((markdown) => {
-			if (markdown.match("404 - Nothing matches the given URI")) {
-				throw new Error("404");
-			}
+const getFromFile = async (fileName) => {
+	const markdown = await getMarkdownFromFile(fileName);
 
-			const pageTitle = markdown.split("\n")?.[0]?.match(/^# (.+)/)?.[1];
-			if (fileName !== "lists" && pageTitle && pageTitle !== originalTitle) {
-				document.title = `${originalTitle} - ${pageTitle}`;
-			}
+	changeDocumentTitle(fileName, getPageTitle(markdown));
 
-			const sections = markdown.split("\n--\n");
-
-			sections?.forEach((section) => {
-				const sectionElement = ce.section({
-					innerHTML: converter.makeHtml(section),
-				});
-				main.appendChild(sectionElement);
-			});
-		})
-		.catch((error) => {
-			if (error.message === "404") {
-				getFromFile("site/404");
-			} else {
-				getFromFile("site/error");
-			}
-		})
-		.finally(() => {
-			mainContentAdded = true;
+	markdown.split("\n--\n").forEach((section) => {
+		const sectionElement = ce.section({
+			innerHTML: makeHtml(section),
 		});
+
+		main.appendChild(sectionElement);
+	});
+
+	mainContentAdded = true;
 };
 
 const { id } = getParams();
