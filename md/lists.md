@@ -30,31 +30,32 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 
 #### Google
 - [Gmail](?id=gmail) - coming soon
-- [Keep](?id=keep) - coming soon
+- Keep - coming soon
 - [Search](?id=google-search)
-- [YouTube](/?id=youtube) - coming soon
+- YouTube - coming soon
 
 #### Meta / Facebook
-- [Facebook](?id=facebook) - coming soon
-- [Instagram](?id=instagram) - coming soon
+- Facebook - coming soon
+- Instagram - coming soon
 - [WhatsApp](/?id=whatsapp) - **NEW! ❤️‍🔥**
 
 #### Microsoft
-- [Outlook](?id=outlook) - coming soon
-- [LinkedIn](?id=linkedin) - coming soon
+- Outlook - coming soon
+- LinkedIn - coming soon
 - [VSCode](?id=vscode)
 
 #### others
 - [DuckDuckGo](?id=duckduckgo)
-- [Pinterest](?id=pinterest) - coming soon
+- Pinterest - coming soon
 - [Reddit](?id=reddit)
-- [Signal](?id=signal) - coming soon
-- [Slack](?id=slack) - coming soon
-- [X / Twitter](/?id=x) - coming soon
+- Signal - coming soon
+- Slack - coming soon
+- X / Twitter - coming soon
 
 ### computers
 - [Mac](/?id=mac)
-- [Windows](?id=windows) - (coming soon)
+- Windows - coming soon
+- Linux - coming soon
 
 ### phones & tablets
 - [iPhone](/?id=iphone)
@@ -62,7 +63,7 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 - [Android](/?id=android)
 
 ### browsers
-- [Chrome](?id=chrome) - coming soon
+- Chrome - coming soon
 
 --
 
