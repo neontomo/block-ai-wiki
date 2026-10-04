@@ -10,3 +10,5 @@ if you are not technical, simply send me suggestions or articles you want to wri
 
 tomomyrman @ proton . me (remove the spaces)
 
+we'll fix the formatting for you.
+

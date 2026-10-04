@@ -1,19 +1,19 @@
 # welcome stranger!
 
-my goal is for this wiki to be a powerful repository on how to avoid AI content on the internet. as I struggled to find the information I needed myself, I decided to stop waiting and simply build it. it is born out of a deep frustration and my unyielding resistance to engaging with AI at all in my life, full stop.
+my goal is to make this wiki into a powerful repository where you can learn how to disable AI on the internet. I struggled to find this information myself and grew impatient, so I decided finally to build it myself. it is born out of a deep frustration and my wish to completely abstain from any and all use of AI where possible, full stop (to be pedanctic: LLMs).
 
-unfortunately, companies are getting aggressive in removing customer choice, but my philosophy is to attempt to do at least one of these:
+sadly, companies are becoming bolder in removing customer choice, but the philosophy of the wiki is to attempt to do at least one of these for you:
 
-1. hide AI content & features
-2. highlight that content is AI
-3. remove AI content & features
-3. opt-out of data sharing with AI
+1. highlight AI content/features
+2. hide AI content/features
+3. disable AI content/features
+4. opt-out of data sharing
+5. provide more information
 
-none of the content on this website, nor the code it's built with, was generated. it's made carefully by hand and supported by fact-checking and academic sources where applicable. none of the scripts listed use AI to scan for AI content, either, that would be silly.
+
+none of the content on this website was generated. it's written carefully by hand and supported by fact-checking and academic sources where applicable.
 
 if you want to read my story, you can find it here: [my story](/?id=me)
-
-**disclaimer**: I use the word AI in the wiki, but to be pedantic, I am referring to LLMs.
 
 --
 
@@ -27,25 +27,34 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ## opt-out
 
 ### apps & websites
-- [DuckDuckGo](?id=duckduckgo)
-- [Google Search](?id=google-search)
-- [Reddit](?id=reddit)
+
+#### Google
+- [Gmail](?id=gmail) - coming soon
+- [Keep](?id=keep) - coming soon
+- [Search](?id=google-search)
+- [YouTube](/?id=youtube) - coming soon
+
+#### Meta / Facebook
+- [Facebook](?id=facebook) - coming soon
+- [Instagram](?id=instagram) - coming soon
+- [WhatsApp](/?id=whatsapp) - **NEW! ❤️‍🔥**
+
+#### Microsoft
+- [Outlook](?id=outlook) - coming soon
+- [LinkedIn](?id=linkedin) - coming soon
 - [VSCode](?id=vscode)
-- Facebook - coming soon
-- Gmail - coming soon
-- Instagram - coming soon
-- Keep - coming soon
-- LinkedIn - coming soon
-- Outlook - coming soon
-- Pinterest - coming soon
-- Slack - coming soon
-- WhatsApp - coming soon
-- X - coming soon
-- YouTube - coming soon
+
+#### others
+- [DuckDuckGo](?id=duckduckgo)
+- [Pinterest](?id=pinterest) - coming soon
+- [Reddit](?id=reddit)
+- [Signal](?id=signal) - coming soon
+- [Slack](?id=slack) - coming soon
+- [X / Twitter](/?id=x) - coming soon
 
 ### computers
 - [Mac](/?id=mac)
-- Windows - (coming soon)
+- [Windows](?id=windows) - (coming soon)
 
 ### phones & tablets
 - [iPhone](/?id=iphone)
@@ -53,20 +62,9 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 - [Android](/?id=android)
 
 ### browsers
-- Chrome - coming soon
+- [Chrome](?id=chrome) - coming soon
 
 --
 
 ## articles
 - [how I spot AI writing](/?id=how-i-spot-ai-writing)
-
---
-
-## alternative services
-- coming soon
-
---
-
-## badges
-- coming soon
-
