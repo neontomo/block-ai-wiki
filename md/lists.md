@@ -29,6 +29,7 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ### apps & websites
 
 #### Google
+- [Gemini / Assistant](?id=android)
 - [Gmail](?id=gmail) - coming soon
 - Keep - coming soon
 - [Search](?id=google-search)
