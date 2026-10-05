@@ -4,6 +4,7 @@ const fetchOptions = {
 
 const markdownOptions = {
 	tasklists: true,
+	tables: true,
 };
 
 const getMarkdownFromFile = async (fileName) => {

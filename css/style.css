@@ -125,3 +125,7 @@ code {
 	background-color: #e7000b;
 	border-radius: 34px;
 }
+
+table td {
+	border: 1px solid black;
+}
