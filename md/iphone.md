@@ -18,9 +18,26 @@ unfortunately, none of these steps will ensure that your device is clean from AI
 
 --
 
+## block access to AI Writing Tools and other AI features
+
+1. go to `Settings`
+
+2. click `Screen Time` in the sidebar
+
+3. click `Content & Privacy`
+
+4. turn on `Content & Privacy` restrictions
+
+5. click `Intelligence & Siri`
+
+6. turn off `Writing Tools` and other AI features you're uninterested in
+
+--
+
 ## see also
 - [Mac](?id=mac)
 - [iPad](?id=ipad)
+
 --
 
 ## sources

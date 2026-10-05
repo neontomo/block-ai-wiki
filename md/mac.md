@@ -26,7 +26,7 @@ to delete the models and reclaim your hard drive space, you need to disable SIP 
 
 --
 
-## block access to Writing Tools
+## block access to AI Writing Tools
 
 1. go to the `System Settings` app on your Mac
 
@@ -42,7 +42,7 @@ to delete the models and reclaim your hard drive space, you need to disable SIP 
 
 --
 
-## block image creation features
+## block AI Image Creation features
 you can restrict access to image creation features like Image Playground, Genmoji and Image Wand.
 
 **note:** Image Wand is currently available on iPhone and iPad.
