@@ -33,12 +33,10 @@ nav h1 {
 nav h1 a {
 	color: black;
 	text-decoration: none;
-	border-bottom: 3px solid transparent;
 }
 
 nav h1 a:hover,
 nav h1 a:focus {
-	border-bottom: 3px solid black;
 }
 
 nav span {
@@ -126,6 +124,35 @@ code {
 	border-radius: 34px;
 }
 
+nav a:hover .slider:before {
+	animation: toggle 0.4s linear;
+}
+
+nav a:hover .slider {
+	animation: toggle-color 0.4s linear;
+}
+
 table td {
 	border: 1px solid black;
+}
+
+@keyframes toggle-color {
+	0% {
+		background-color: #aaa;
+	}
+	99% {
+		background-color: #aaa;
+	}
+	100% {
+		background-color: #e7000b;
+	}
+}
+
+@keyframes toggle {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(16px);
+	}
 }
