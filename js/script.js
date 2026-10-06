@@ -1,18 +1,25 @@
 let mainContentAdded = false;
-const originalTitle = "block AI | wiki";
+const entrypoint = "site/start"; // start.md
+const siteTitle = "block AI | wiki";
 
 const main = document.getElementsByTagName("main")[0];
 
 const getParams = () => {
 	const params = new URLSearchParams(document.location.search);
 	const { id } = { id: params.get("id") };
-
 	return { id };
 };
 
-const changeDocumentTitle = (fileName, pageTitle) => {
-	if (fileName !== "lists" && pageTitle && pageTitle !== originalTitle) {
-		document.title = `${originalTitle} - ${pageTitle}`;
+const getArticleId = () => {
+	const { id } = getParams();
+	return id || entrypoint;
+};
+
+const changeDocumentTitle = (fileName, articleTitle) => {
+	if (fileName === entrypoint) {
+		document.title = siteTitle;
+	} else if (articleTitle) {
+		document.title = `${siteTitle} - ${articleTitle}`;
 	}
 };
 
@@ -26,22 +33,23 @@ const addFooter = () => {
 };
 
 const getFromFile = async (fileName) => {
-	const markdown = await getMarkdownFromFile(fileName);
+	const markdown = await MarkdownUtils.getMarkdownFromFile(fileName);
+	const sections = markdown.split("\n--\n");
 
-	changeDocumentTitle(fileName, getPageTitle(markdown));
+	changeDocumentTitle(fileName, MarkdownUtils.getArticleTitle(markdown));
 
-	markdown.split("\n--\n").forEach((section) => {
-		const sectionElement = ce.section({
-			innerHTML: makeHtml(section),
-		});
-
+	sections.forEach((section) => {
+		const sectionHtml = MarkdownUtils.makeHtml(section);
+		const sectionElement = ce.section({ innerHTML: sectionHtml });
 		main.appendChild(sectionElement);
 	});
 
 	mainContentAdded = true;
 };
 
-const { id } = getParams();
+document.addEventListener("DOMContentLoaded", () => {
+	const id = getArticleId();
 
-getFromFile(id || "lists");
-addFooter();
+	getFromFile(id);
+	addFooter();
+});

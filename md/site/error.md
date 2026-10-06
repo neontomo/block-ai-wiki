@@ -1,3 +1,3 @@
-## an unknown error has occurred
+# an unknown error has occurred
 
 return to [home](/)
