@@ -20,6 +20,9 @@
 ### maintained by others
 - [EasyList – Anti AI Suggestions](https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/thirdparties/easylist/easylist-ai.txt)
 - [Filter list for AI Slop channels on YouTube](https://github.com/Override92/AiSList) (makes your pages load really slowly)
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+- [Block AI generated images](https://github.com/rjaus/awesome-ublacklist#ai-generated-images)
+- [blocklist for AI music on youtube](https://surasshu.com/blocklist-for-ai-music-on-youtube/) (requires installing [BlockTube](https://github.com/amitbl/blocktube))
 
 --
 

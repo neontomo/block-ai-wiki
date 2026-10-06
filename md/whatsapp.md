@@ -56,9 +56,9 @@ unfortunately, this ability must be disabled in each individual chat.
 --
 
 ## see also
-- [Signal](?id=signal)
-- [Facebook](?id=facebook)
-- [Instagram](?id=instagram)
+- [Signal](/?id=signal)
+- [Facebook](/?id=facebook)
+- [Instagram](/?id=instagram)
 
 --
 

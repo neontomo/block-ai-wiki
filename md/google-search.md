@@ -30,3 +30,8 @@ switch to another search engine that allows you to opt-out of AI. some options a
 
 - [noai.duckduckgo.com](https://noai.duckduckgo.com/)
 - [kagi.com](https://kagi.com/)
+
+--
+
+## resources
+- [Tips & Tricks to Get Search Engines to Return Authentic Results](https://github.com/laylavish/TipsTricksGoogleSearch)

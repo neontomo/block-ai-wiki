@@ -29,11 +29,11 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ### apps & websites
 
 #### Google
-- [Gemini / Assistant](?id=android)
-- [Gmail](?id=gmail) - coming soon
+- [Gemini / Assistant](/?id=android)
+- [Gmail](/?id=gmail) - coming soon
 - Keep - coming soon
-- [Search](?id=google-search)
-- YouTube - coming soon
+- [Search](/?id=google-search)
+- [YouTube](/?id=youtube)
 
 #### Meta / Facebook
 - Facebook - coming soon
@@ -43,12 +43,12 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 #### Microsoft
 - Outlook - coming soon
 - LinkedIn - coming soon
-- [VSCode](?id=vscode)
+- [VSCode](/?id=vscode)
 
 #### others
-- [DuckDuckGo](?id=duckduckgo)
+- [DuckDuckGo](/?id=duckduckgo)
 - Pinterest - coming soon
-- [Reddit](?id=reddit)
+- [Reddit](/?id=reddit)
 - Signal - coming soon
 - Slack - coming soon
 - X / Twitter - coming soon
