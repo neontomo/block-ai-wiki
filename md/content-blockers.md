@@ -26,6 +26,13 @@
 
 --
 
+## step 3. (optional) generate your own filters
+you can generate your own filters if you want to block certain channels or keywords by using our tool:
+
+- [yt-blocker](https://blockai.wiki/yt-blocker)
+
+--
+
 ## step 3. install filters
 - follow the official guide for uBlock Origin:
 
