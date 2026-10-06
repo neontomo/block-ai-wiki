@@ -1,6 +1,6 @@
 # welcome stranger!
 
-my goal is to make this wiki into a powerful repository where you can learn how to disable AI on the internet. I struggled to find this information myself and grew impatient, so I decided finally to build it myself. it is born out of a deep frustration and my wish to completely abstain from any and all use of AI where possible, full stop (to be pedanctic: LLMs).
+my goal is to make this wiki into a powerful repository where you can learn how to disable AI on the internet. I struggled to find this information myself and grew impatient, so I decided finally to build it myself. it is born out of a deep frustration and my wish to completely abstain from any and all use of AI where possible, full stop (to be pedantic: LLMs).
 
 sadly, companies are becoming bolder in removing customer choice, but the philosophy of the wiki is to attempt to do at least one of these for you:
 
