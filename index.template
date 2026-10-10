@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/style.css?v=3">
   <link rel="shortcut icon" href="/img/favicon.png?v=2" type="image/x-icon">
-  <title>block AI | wiki</title>
+  <title>block AI | wiki - {articleTitle}</title>
 
   <!-- Basic SEO tags -->
   <link rel="canonical" href="https://blockai.wiki" />
@@ -61,7 +61,12 @@
     <span>retake your digital life</span>
   </nav>
 
-  <main></main>
+  <main>
+    {content}
+
+    <section>{footer}</section>
+  </main>
+
 
   <script src="js/error.utils.js?v=1"></script>
   <script src="js/showdown.min.js?v=1"></script>

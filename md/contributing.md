@@ -11,9 +11,9 @@ make sure to include sources when writing articles, preferrably primary sources.
 
 ## submitting
 
-for the technically inclined, you can simply clone the repository and send a pull-request on Github: [github.com/neontomo/block-ai-wiki](https://github.com/neontomo/block-ai-wiki)
+for the technically inclined, you can simply send a pull-request on Github: [github.com/neontomo/block-ai-wiki](https://github.com/neontomo/block-ai-wiki)
 
-new articles are added to the [/md](https://github.com/neontomo/block-ai-wiki/tree/main/md) folder
+new articles are added to the [/md](https://github.com/neontomo/block-ai-wiki/tree/main/md) folder.
 
 ## other ways to contribute
 
