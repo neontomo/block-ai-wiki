@@ -10,7 +10,7 @@ to know whether a video has generated AI content in it, look for the `ⓘ AI` ba
 
 ## block AI content
 
-take a look at [content blockers](/article/content-blockers) to filter out AI content on a computer.
+take a look at [content blockers](/article/content-blockers) to filter out AI content on a desktop computer.
 
 --
 
@@ -25,3 +25,12 @@ if you are on an Android phone, you can use the app Morphe to modify your YouTub
 ## disable AI video summary
 
 TODO: write this part. you can [contribute](/article/contributing) if you like.
+
+--
+
+## see also
+
+- [Reddit](/article/reddit)
+- [LinkedIn](/article/linkedin)
+- [YouTube](/article/youtube)
+- [WhatsApp](/article/whatsapp)

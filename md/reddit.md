@@ -23,4 +23,5 @@ if you are on an Android phone, you can use the app Morphe to modify your Reddit
 ## see also
 
 - [LinkedIn](/article/linkedin)
-- [YouTube](/article/YouTube)
+- [YouTube](/article/youtube)
+- [WhatsApp](/article/whatsapp)

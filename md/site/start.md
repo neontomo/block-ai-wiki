@@ -42,7 +42,7 @@ if you want to read my story, you can find it here: [my story](/article/me)
 
 #### Microsoft
 - Outlook - coming soon
-- LinkedIn - coming soon
+- [LinkedIn](/article/linkedin) - **NEW! ❤️‍🔥**
 - [VSCode](/article/vscode)
 
 #### others
