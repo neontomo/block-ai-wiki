@@ -80,6 +80,7 @@ you can restrict access to third-party AI provider extensions — like ChatGPT.
 --
 
 ## see also
+
 - [iPad](/article/ipad)
 - [iPhone](/article/iphone)
 

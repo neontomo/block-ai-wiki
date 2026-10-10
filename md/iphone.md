@@ -35,6 +35,7 @@ unfortunately, none of these steps will ensure that your device is clean from AI
 --
 
 ## see also
+
 - [Mac](/article/mac)
 - [iPad](/article/ipad)
 

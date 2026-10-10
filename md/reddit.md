@@ -3,6 +3,7 @@
 --
 
 ## block AI content
+
 Reddit these days is over-run by AI bots. I find that blocking this content is error-prone, no matter what script you use, and is best left to the moderators of those subreddits. instead, I suggest to use a highlighter to indicate that content is probably generated so that you can make an informed choice of whether to ignore the post or not.
 
 **install the content highlighter**
@@ -15,4 +16,11 @@ Reddit these days is over-run by AI bots. I find that blocking this content is e
 
 if you are on an Android phone, you can use the app Morphe to modify your Reddit app to remove certain features like the AI Ask button. 
 
-- [Morphe](https://morphe.software) 
+- [Morphe](https://morphe.software)
+
+--
+
+## see also
+
+- [LinkedIn](/article/linkedin)
+- [YouTube](/article/YouTube)

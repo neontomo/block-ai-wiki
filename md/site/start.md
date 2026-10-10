@@ -30,7 +30,7 @@ if you want to read my story, you can find it here: [my story](/article/me)
 
 #### Google
 - [Gemini / Assistant](/article/android)
-- [Gmail](/article/gmail) - coming soon
+- Gmail - coming soon
 - Keep - coming soon
 - [Search](/article/google-search)
 - [YouTube](/article/youtube)
