@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"build": "node node.generate-website && node node.generate-sitemap.js"
+		"build": "node js/node.generate-website && node js/node.generate-sitemap.js"
 	},
 	"keywords": [],
 	"author": "",
