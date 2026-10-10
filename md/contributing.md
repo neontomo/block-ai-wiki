@@ -13,7 +13,10 @@ make sure to include sources when writing articles, preferrably primary sources.
 
 for the technically inclined, you can simply send a pull-request on Github: [github.com/neontomo/block-ai-wiki](https://github.com/neontomo/block-ai-wiki)
 
-new articles are added to the [/md](https://github.com/neontomo/block-ai-wiki/tree/main/md) folder.
+1. run `pnpm install` to install dependencies
+2. add new articles to the [/md](https://github.com/neontomo/block-ai-wiki/tree/main/md) folder in Markdown format
+3. run `pnpm build` to generate the static website and sitemap
+4. submit your changes
 
 ## other ways to contribute
 
