@@ -84,7 +84,5 @@
 
 			<section>{footer}</section>
 		</main>
-
-		<script src="/js/script.js?v=4"></script>
 	</body>
 </html>
