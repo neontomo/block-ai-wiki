@@ -35,10 +35,6 @@ nav h1 a {
 	text-decoration: none;
 }
 
-nav h1 a:hover,
-nav h1 a:focus {
-}
-
 nav span {
 	font-style: italic;
 }

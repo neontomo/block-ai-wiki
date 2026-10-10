@@ -4,7 +4,10 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"build": "node js/node.generate-website && node js/node.generate-sitemap.js"
+		"lint:check": "biome lint",
+		"lint": "biome lint --write",
+		"format": "biome format --write .",
+		"build": "node js/node.generate-website && node js/node.generate-sitemap.js && pnpm format && pnpm format"
 	},
 	"keywords": [],
 	"author": "",

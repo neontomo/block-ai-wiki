@@ -1,36 +1,51 @@
-<!-- biome-ignore-all lint/a11y/noLabelWithoutControl: ok -->
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="/css/style.css?v=3">
+		<link rel="shortcut icon" href="/img/favicon.png?v=2" type="image/x-icon">
+		<title>block AI | wiki - contributing</title>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/css/style.css?v=3">
-  <link rel="shortcut icon" href="/img/favicon.png?v=2" type="image/x-icon">
-  <title>block AI | wiki - contributing</title>
+		<!-- Basic SEO tags -->
+		<link rel="canonical" href="https://blockai.wiki">
+		<meta
+			name="description"
+			content="how to block AI everywhere online - retake your digital life"
+		>
+		<meta
+			name="keywords"
+			content="block AI,disable AI,remove AI,toggle AI,LLM,I hate AI,I can't stand AI,how to turn off AI,blocking AI"
+		>
 
-  <!-- Basic SEO tags -->
-  <link rel="canonical" href="https://blockai.wiki" />
-  <meta name="description" content="how to block AI everywhere online - retake your digital life" />
-  <meta name="keywords"
-    content="block AI,disable AI,remove AI,toggle AI,LLM,I hate AI,I can't stand AI,how to turn off AI,blocking AI" />
+		<!-- Facebook meta tags -->
+		<meta property="og:url" content="https://blockai.wiki">
+		<meta property="og:type" content="website">
+		<meta
+			property="og:title"
+			content="block AI | wiki - how to block AI everywhere online"
+		>
+		<meta
+			property="og:description"
+			content="how to block AI everywhere online - retake your digital life"
+		>
+		<meta property="og:image" content="https://blockai.wiki/img/ogimage.jpg">
 
-  <!-- Facebook meta tags -->
-  <meta property="og:url" content="https://blockai.wiki" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="block AI | wiki - how to block AI everywhere online" />
-  <meta property="og:description" content="how to block AI everywhere online - retake your digital life" />
-  <meta property="og:image" content="https://blockai.wiki/img/ogimage.jpg" />
+		<!-- Twitter meta tags -->
+		<meta name="twitter:card" content="summary_large_image">
+		<meta property="twitter:domain" content="blockai.wiki">
+		<meta property="og:url" content="https://blockai.wiki">
+		<meta
+			property="og:title"
+			content="block AI | wiki - how to block AI everywhere online"
+		>
+		<meta
+			property="og:description"
+			content="how to block AI everywhere online - retake your digital life"
+		>
+		<meta property="og:image" content="https://blockai.wiki/img/ogimage.jpg">
 
-  <!-- Twitter meta tags -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta property="twitter:domain" content="blockai.wiki" />
-  <meta property="og:url" content="https://blockai.wiki" />
-  <meta property="og:title" content="block AI | wiki - how to block AI everywhere online" />
-  <meta property="og:description" content="how to block AI everywhere online - retake your digital life" />
-  <meta property="og:image" content="https://blockai.wiki/img/ogimage.jpg" />
-
-  <script type="application/ld+json">
+		<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -50,48 +65,95 @@
   },
 }
 </script>
+	</head>
 
-</head>
+	<body>
+		<nav>
+			<h1>
+				<a href="/"
+					>block AI<label class="switch" aria-label="block AI" for="toggle"
+						><span class="slider"></span></label
+					></a
+				>
+			</h1>
+			<span>retake your digital life</span>
+		</nav>
 
-<body>
-  <nav>
-    <h1>
-      <a href="/">block AI <label class="switch"><span class="slider"></span></label></a>
-    </h1>
-    <span>retake your digital life</span>
-  </nav>
+		<main>
+			<section>
+				<h1 id="contributing">contributing</h1>
+				<p>
+					if want to add more information to the wiki, or you notice anything
+					wrong, don't hesitate to contribute.
+				</p>
+				<h2 id="writingeditingarticles">writing/editing articles</h2>
+				<p>
+					articles on the wiki are written in Markdown format, which you can
+					learn how to use in 20 minutes, check out the
+					<a href="/article/markdown">cheat sheet</a>.
+				</p>
+				<p>
+					you can see an example of one of our wiki article in Markdown format
+					here:
+					<a
+						href="https://raw.githubusercontent.com/neontomo/block-ai-wiki/refs/heads/main/md/mac.md"
+						>example</a
+					>
+				</p>
+				<p>
+					make sure to include sources when writing articles, preferrably
+					primary sources.
+				</p>
+				<h2 id="submitting">submitting</h2>
+				<p>
+					for the technically inclined, you can simply send a pull-request on
+					Github:
+					<a href="https://github.com/neontomo/block-ai-wiki"
+						>github.com/neontomo/block-ai-wiki</a
+					>
+				</p>
+				<ol>
+					<li>run <code>pnpm install</code> to install dependencies</li>
+					<li>
+						add new articles to the
+						<a href="https://github.com/neontomo/block-ai-wiki/tree/main/md"
+							>/md</a
+						>
+						folder in Markdown format
+					</li>
+					<li>
+						run <code>pnpm build</code> to generate the static website and
+						sitemap
+					</li>
+					<li>submit your changes</li>
+				</ol>
+				<h2 id="otherwaystocontribute">other ways to contribute</h2>
+				<p>
+					if you are not a technical person, you can still contribute to the
+					wiki by writing/editing articles and sending them directly to my
+					email. I'll fix the formatting for you.
+				</p>
+				<p>you can also:</p>
+				<ul>
+					<li>share the wiki link when people ask about blocking AI</li>
+					<li>send me suggestions for articles you want covered</li>
+					<li>bookmark the wiki - more is coming soon!</li>
+				</ul>
+				<h2 id="contact">contact</h2>
+				<p>tomomyrman @ proton . me (remove spaces)</p>
+			</section>
 
-  <main>
-    <section><h1 id="contributing">contributing</h1>
-<p>if want to add more information to the wiki, or you notice anything wrong, don't hesitate to contribute.</p>
-<h2 id="writingeditingarticles">writing/editing articles</h2>
-<p>articles on the wiki are written in Markdown format, which you can learn how to use in 20 minutes, check out the <a href="/article/markdown">cheat sheet</a>.</p>
-<p>you can see an example of one of our wiki article in Markdown format here: <a href="https://raw.githubusercontent.com/neontomo/block-ai-wiki/refs/heads/main/md/mac.md">example</a></p>
-<p>make sure to include sources when writing articles, preferrably primary sources.</p>
-<h2 id="submitting">submitting</h2>
-<p>for the technically inclined, you can simply send a pull-request on Github: <a href="https://github.com/neontomo/block-ai-wiki">github.com/neontomo/block-ai-wiki</a></p>
-<ol>
-<li>run <code>pnpm install</code> to install dependencies</li>
-<li>add new articles to the <a href="https://github.com/neontomo/block-ai-wiki/tree/main/md">/md</a> folder in Markdown format</li>
-<li>run <code>pnpm build</code> to generate the static website and sitemap</li>
-<li>submit your changes</li>
-</ol>
-<h2 id="otherwaystocontribute">other ways to contribute</h2>
-<p>if you are not a technical person, you can still contribute to the wiki by writing/editing articles and sending them directly to my email. I'll fix the formatting for you.</p>
-<p>you can also:</p>
-<ul>
-<li>share the wiki link when people ask about blocking AI</li>
-<li>send me suggestions for articles you want covered</li>
-<li>bookmark the wiki - more is coming soon!</li>
-</ul>
-<h2 id="contact">contact</h2>
-<p>tomomyrman @ proton . me (remove spaces)</p></section>
+			<section>
+				<p>
+					<a href="/">home</a>
+					- <a href="/article/contributing">contributing</a> -
+					<a href="/article/me">my story</a>
+					-
+					<a href="https://github.com/neontomo/block-ai-wiki">github</a>
+				</p>
+			</section>
+		</main>
 
-    <section><p><a href="/">home</a> - <a href="/article/contributing">contributing</a> - <a href="/article/me">my story</a> - <a href="https://github.com/neontomo/block-ai-wiki">github</a></p></section>
-  </main>
-
-
-  <script src="js/script.js?v=4"></script>
-</body>
-
+		<script src="js/script.js?v=4"></script>
+	</body>
 </html>
