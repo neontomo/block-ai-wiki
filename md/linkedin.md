@@ -47,6 +47,7 @@ LinkedIn these days is over-run by AI content. I find that blocking this content
 ## see also
 
 - [Reddit](/article/reddit)
+- [YouTube](/article/YouTube)
 
 --
 
