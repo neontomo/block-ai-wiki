@@ -15,3 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	const id = getArticleId();
 	if (id) window.location.href = `/article/${id}`;
 });
+
+const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+
+console.log(prefersDarkScheme);
