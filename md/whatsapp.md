@@ -57,9 +57,10 @@ unfortunately, this ability must be disabled in each individual chat.
 
 ## see also
 
-- [Signal](/article/signal)
-- [Facebook](/article/facebook)
-- [Instagram](/article/instagram)
+- [LinkedIn](/article/linkedin)
+- [Reddit](/article/reddit)
+- [YouTube](/article/youtube)
+- [WhatsApp](/article/whatsapp)
 
 --
 
