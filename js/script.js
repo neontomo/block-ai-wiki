@@ -48,8 +48,7 @@ const getFromFile = async (fileName) => {
 };
 
 document.addEventListener("DOMContentLoaded", () => {
-	const id = getArticleId();
-
-	getFromFile(id);
-	addFooter();
+	// const id = getArticleId();
+	// getFromFile(id);
+	// addFooter();
 });

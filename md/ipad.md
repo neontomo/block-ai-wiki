@@ -35,8 +35,8 @@ unfortunately, none of these steps will ensure that your device is clean from AI
 --
 
 ## see also
-- [Mac](/?id=mac)
-- [iPhone](/?id=iphone)
+- [Mac](/article/mac)
+- [iPhone](/article/iphone)
 
 --
 

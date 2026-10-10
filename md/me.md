@@ -28,6 +28,6 @@ as I went deeper into my emotions on the topic, I realised a few things about my
 
 which led me to build this wiki. it didn't make me feel all good again, and I might still end up leaving software behind, but it's a start.
 
-if you are feeling a bit lost too, I recommend you [contribute to the wiki](/?id=contributing), it might help you a lil. or create your own project, just do something! the antidote is being 500% more human; be quirky, make post-it's for your friends, learn sewing, do tea ceremonies, bind your own notebooks, take analog photos... just do something that feels like the AI can never take it away from you. perhaps you don't even need to share it on social media.
+if you are feeling a bit lost too, I recommend you [contribute to the wiki](/article/contributing), it might help you a lil. or create your own project, just do something! the antidote is being 500% more human; be quirky, make post-it's for your friends, learn sewing, do tea ceremonies, bind your own notebooks, take analog photos... just do something that feels like the AI can never take it away from you. perhaps you don't even need to share it on social media.
 
 Tomo

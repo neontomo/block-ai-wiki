@@ -13,14 +13,14 @@ sadly, companies are becoming bolder in removing customer choice, but the philos
 
 none of the content on this website was generated. it's written carefully by hand and supported by fact-checking and academic sources where applicable.
 
-if you want to read my story, you can find it here: [my story](/?id=me)
+if you want to read my story, you can find it here: [my story](/article/me)
 
 --
 
 ## blockers, filtering & highlighting
 
-- [content blockers](/?id=content-blockers)
-- [content highlighter](/?id=content-highlighter)
+- [content blockers](/article/content-blockers)
+- [content highlighter](/article/content-highlighter)
 
 --
 
@@ -29,39 +29,39 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 ### apps & websites
 
 #### Google
-- [Gemini / Assistant](/?id=android)
-- [Gmail](/?id=gmail) - coming soon
+- [Gemini / Assistant](/article/android)
+- [Gmail](/article/gmail) - coming soon
 - Keep - coming soon
-- [Search](/?id=google-search)
-- [YouTube](/?id=youtube)
+- [Search](/article/google-search)
+- [YouTube](/article/youtube)
 
 #### Meta / Facebook
 - Facebook - coming soon
 - Instagram - coming soon
-- [WhatsApp](/?id=whatsapp) - **NEW! ❤️‍🔥**
+- [WhatsApp](/article/whatsapp) - **NEW! ❤️‍🔥**
 
 #### Microsoft
 - Outlook - coming soon
 - LinkedIn - coming soon
-- [VSCode](/?id=vscode)
+- [VSCode](/article/vscode)
 
 #### others
-- [DuckDuckGo](/?id=duckduckgo)
+- [DuckDuckGo](/article/duckduckgo)
 - Pinterest - coming soon
-- [Reddit](/?id=reddit)
+- [Reddit](/article/reddit)
 - Signal - coming soon
 - Slack - coming soon
 - X / Twitter - coming soon
 
 ### computers
-- [Mac](/?id=mac)
+- [Mac](/article/mac)
 - Windows - coming soon
 - Linux - coming soon
 
 ### phones & tablets
-- [iPhone](/?id=iphone)
-- [iPad](/?id=ipad)
-- [Android](/?id=android)
+- [iPhone](/article/iphone)
+- [iPad](/article/ipad)
+- [Android](/article/android)
 
 ### browsers
 - Chrome - coming soon
@@ -69,4 +69,4 @@ if you want to read my story, you can find it here: [my story](/?id=me)
 --
 
 ## articles
-- [how I spot AI writing](/?id=how-i-spot-ai-writing)
+- [how I spot AI writing](/article/how-i-spot-ai-writing)

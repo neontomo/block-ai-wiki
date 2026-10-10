@@ -63,8 +63,10 @@ const start = async () => {
 	const fileNames = await glob(["md/**/*.md"]);
 
 	for await (const fileName of fileNames) {
+		const isStartPage = fileName === "md/site/start.md";
+
 		const markdown = {
-			template: getFileContent("index.template"),
+			template: getFileContent("article.template"),
 			footer: getFileContent("md/site/footer.md"),
 			content: getFileContent(fileName),
 		};
@@ -82,14 +84,21 @@ const start = async () => {
 			.join("");
 
 		const html = markdown.template
-			.replace(/\{articleTitle\}/, articleTitle)
+			.replace(
+				/\{articleTitle\}/,
+				isStartPage ? "retake your digital life" : articleTitle,
+			)
 			.replace(/\{content\}/, content)
 			.replace(/\{footer\}/, MarkdownUtils.makeHtml(markdown.footer));
 
 		const path = process.cwd();
 		const folderName = fileName.replace(/^md\//i, "").replace(/\.md/i, "");
 
-		await fs.outputFile(`${path}/article/${folderName}/index.html`, html);
+		if (folderName === "site/start") {
+			await fs.outputFile(`${path}/index.html`, html);
+		} else {
+			await fs.outputFile(`${path}/article/${folderName}/index.html`, html);
+		}
 	}
 };
 

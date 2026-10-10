@@ -8,7 +8,7 @@ a browser script that uses data sourced from academic research papers and from m
 
 **disclaimer:** some the patterns are context-dependent. for example, in a Reddit thread it's less human to write "in conclusion" than it would be in a research paper. use your nose.
 
-to learn more about how I target AI content, have a look at [how I spot AI writing](/?id=how-i-spot-ai-writing).
+to learn more about how I target AI content, have a look at [how I spot AI writing](/article/how-i-spot-ai-writing).
 
 ### script last updated
 

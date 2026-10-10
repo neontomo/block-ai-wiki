@@ -3,7 +3,7 @@
 if want to add more information to the wiki, or you notice anything wrong, don't hesitate to contribute.
 
 ## writing/editing articles
-articles on the wiki are written in Markdown format, which you can learn how to use in 20 minutes, check out the [cheat sheet](/?id=markdown).
+articles on the wiki are written in Markdown format, which you can learn how to use in 20 minutes, check out the [cheat sheet](/article/markdown).
 
 you can see an example of one of our wiki article in Markdown format here: [example](https://raw.githubusercontent.com/neontomo/block-ai-wiki/refs/heads/main/md/mac.md)
 

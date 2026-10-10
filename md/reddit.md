@@ -7,7 +7,7 @@ Reddit these days is over-run by AI bots. I find that blocking this content is e
 
 **install the content highlighter**
 
-- [content highlighter](/?id=content-highlighter)
+- [content highlighter](/article/content-highlighter)
 
 --
 

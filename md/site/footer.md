@@ -1,1 +1,1 @@
-[home](/) - [contributing](/?id=contributing) - [my story](/?id=me) - [github](https://github.com/neontomo/block-ai-wiki)
+[home](/) - [contributing](/article/contributing) - [my story](/article/me) - [github](https://github.com/neontomo/block-ai-wiki)

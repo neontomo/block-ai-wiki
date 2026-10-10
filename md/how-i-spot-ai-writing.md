@@ -114,7 +114,7 @@ AIs love to turn concepts that have clear verbs into something more metaphorical
 --
 
 ## see also
-- [content highlighter](/?id=content-highlighter)
+- [content highlighter](/article/content-highlighter)
 
 --
 
