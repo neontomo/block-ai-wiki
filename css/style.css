@@ -74,18 +74,20 @@ code {
 	word-break: break-all;
 }
 
-/* md */
+/* md breakpoint */
 @media (width >= 48rem) {
 	/* nothing here yet */
 }
 
-/* lg */
+/* lg breakpoint */
 @media (width >= 64rem) {
 	nav,
 	main {
 		width: 70vw;
 	}
 }
+
+/* toggle */
 
 .toggle {
 	cursor: pointer;
@@ -141,6 +143,8 @@ nav a:hover .toggle {
 		transform: translateX(16px);
 	}
 }
+
+/* dark / light mode */
 
 @media (prefers-color-scheme: light) {
 	blockquote,
