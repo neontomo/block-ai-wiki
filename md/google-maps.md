@@ -1,5 +1,7 @@
 # Google Maps
 
+Maps is rolling out plenty of AI features at the moment, but unfortunately, most of these features cannot be opted out of.
+
 --
 
 ## disable Google Workspace smart features
