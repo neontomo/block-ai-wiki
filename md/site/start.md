@@ -33,6 +33,7 @@ if you want to read my story, you can find it here: [my story](/article/me)
 - [Drive](/article/google-drive)&nbsp;- **NEW! ❤️‍🔥**
 - [Gmail](/article/gmail)&nbsp;- **NEW! ❤️‍🔥**
 - [Keep](/article/google-keep) - **NEW! ❤️‍🔥**
+- [Photos](/article/google-photos) - **NEW! ❤️‍🔥**
 - [Search](/article/google-search)
 - [YouTube](/article/youtube)
 - [Maps](/article/google-maps) - **NEW! ❤️‍🔥**
