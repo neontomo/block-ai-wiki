@@ -29,14 +29,14 @@ if you want to read my story, you can find it here: [my story](/article/me)
 ### apps & websites
 
 #### Google
-- [Gemini / Assistant](/article/android)
 - [Drive](/article/google-drive)&nbsp;- **NEW! ❤️‍🔥**
+- [Gemini / Assistant](/article/android)
 - [Gmail](/article/gmail)&nbsp;- **NEW! ❤️‍🔥**
 - [Keep](/article/google-keep) - **NEW! ❤️‍🔥**
+- [Maps](/article/google-maps) - **NEW! ❤️‍🔥**
 - [Photos](/article/google-photos) - **NEW! ❤️‍🔥**
 - [Search](/article/google-search)
 - [YouTube](/article/youtube)
-- [Maps](/article/google-maps) - **NEW! ❤️‍🔥**
 
 #### Meta / Facebook
 - Facebook - coming soon
