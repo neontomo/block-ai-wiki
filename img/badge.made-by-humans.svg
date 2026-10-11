@@ -1,30 +1,23 @@
-<!-- LICENSED FROM: https://blockai.wiki/ -->
 <svg
 	xmlns="http://www.w3.org/2000/svg"
 	width="110"
 	height="20"
 	role="img"
-	aria-label="made by humans"
+	aria-label="made by: humans"
 >
-	<title>made by humans</title>
-
-	<g clip-path="url(#r)">
-		<rect width="57" height="20" fill="#444" />
+	<title>made by: humans</title>
+	<g shape-rendering="crispEdges">
+		<rect width="57" height="20" fill="#555" />
 		<rect x="57" width="53" height="20" fill="#e7000b" />
 	</g>
-
 	<g
 		fill="#fff"
 		text-anchor="middle"
-		font-family="Arial, Helvetica, sans-serif"
+		font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
 		text-rendering="geometricPrecision"
 		font-size="110"
 	>
-		<g transform="scale(.1)">
-			<text x="295" y="140" textLength="470">made by</text>
-		</g>
-		<g transform="scale(.1)">
-			<text x="825" y="140" textLength="430">humans</text>
-		</g>
+		<text x="295" y="140" textLength="470" transform="scale(.1)">made by</text>
+		<text x="825" y="140" textLength="430" transform="scale(.1)">humans</text>
 	</g>
 </svg>

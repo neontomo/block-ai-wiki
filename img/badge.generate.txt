@@ -1,0 +1,3 @@
+link to generate new svg badges:
+
+https://img.shields.io/badge/AI-FREE-brightgreen?style=flat-square&color=e7000b
