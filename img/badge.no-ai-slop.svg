@@ -1,7 +1,7 @@
 <!-- LICENSED FROM: https://blockai.wiki/ -->
 <svg
 	xmlns="http://www.w3.org/2000/svg"
-	width="88"
+	width="78"
 	height="20"
 	role="img"
 	aria-label="no AI slop"
@@ -9,7 +9,7 @@
 	<title>no AI slop</title>
 
 	<g clip-path="url(#r)">
-		<rect width="39" height="20" fill="#555" />
+		<rect width="39" height="20" fill="#444" />
 		<rect x="39" width="39" height="20" fill="#e7000b" />
 	</g>
 

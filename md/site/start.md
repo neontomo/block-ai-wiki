@@ -80,10 +80,10 @@ if you want to read my story, you can find it here: [my story](/article/me)
 
 feel free to add our badges to your website or project to show that you don't generate your work. you can embed them as normal images.
 
-<img src="/img/badge.no-ai-slop.svg" /> <img src="/img/badge.no-ai-used.svg" /> <img src="/img/badge.ai-free.svg" />
+<img src="/img/badge.ai-free.svg" />
 
-`https://blockai.wiki/img/badge.no-ai-slop.svg`
+<img src="/img/badge.no-ai-slop.svg" />
 
-`https://blockai.wiki/img/badge.no-ai-used.svg`
+<img src="/img/badge.no-ai-used.svg" />
 
-`https://blockai.wiki/img/badge.ai-free.svg`
+<img src="/img/badge.made-by-humans.svg" />

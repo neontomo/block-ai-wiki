@@ -165,3 +165,19 @@ nav a:hover .toggle {
 		color: white;
 	}
 }
+
+.flex {
+	display: flex;
+}
+
+.flex-col {
+	flex-direction: column;
+}
+
+.flex-row {
+	flex-direction: row;
+}
+
+.gap-4 {
+	gap: 10px;
+}
