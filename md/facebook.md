@@ -79,6 +79,7 @@ Meta AI in Chat cannot be completely disabled, but you can mute it.
 - [Reddit](/article/reddit)
 - [YouTube](/article/youtube)
 - [Signal](/article/signal)
+- [Pinterest](/article/pinterest)
 
 --
 

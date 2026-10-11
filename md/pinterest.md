@@ -40,6 +40,17 @@ Pinterest does not alow you to disable AI pins completely, but you can signal th
 
 --
 
+## see also
+
+- [LinkedIn](/article/linkedin)
+- [YouTube](/article/youtube)
+- [Reddit](/article/reddit)
+- [WhatsApp](/article/whatsapp)
+- [Signal](/article/signal)
+- [Facebook](/article/facebook)
+
+--
+
 ## sources
 
 - [AI at Pinterest](https://help.pinterest.com/en/article/ai-at-pinterest)

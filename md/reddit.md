@@ -34,3 +34,5 @@ if you are moderating a subreddit, apps like `Stop AI` can help you identify pos
 - [YouTube](/article/youtube)
 - [WhatsApp](/article/whatsapp)
 - [Signal](/article/signal)
+- [Facebook](/article/facebook)
+- [Pinterest](/article/pinterest)

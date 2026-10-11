@@ -9,6 +9,8 @@ as of `11 October 2026` I have not found any evidence that Signal contains any A
 - [YouTube](/article/youtube)
 - [Reddit](/article/reddit)
 - [WhatsApp](/article/whatsapp)
+- [Facebook](/article/facebook)
+- [Pinterest](/article/pinterest)
 
 --
 

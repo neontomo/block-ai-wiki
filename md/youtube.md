@@ -61,6 +61,9 @@ TODO: write this part. you can [contribute](/article/contributing) if you like.
 - [Google Maps](/article/google-maps)
 - [Google Photos](/article/google-photos)
 - [Gmail](/article/gmail)
+- [Signal](/article/signal)
+- [Facebook](/article/facebook)
+- [Pinterest](/article/pinterest)
 
 --
 
