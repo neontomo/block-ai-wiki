@@ -1,6 +1,6 @@
 # WhatsApp
 
-unfortunately, WhatsApp does not allow removing the blue circle Meta AI icon that hovers over your screen at all times. you have limited options to retake control over your app, but you might still want to take action on those options.
+unfortunately, Meta does not allow removing the blue circle Meta AI icon. you have limited options to retake control, but you might still want to take action on those options.
 
 --
 
@@ -39,6 +39,7 @@ unfortunately, WhatsApp does not allow removing the blue circle Meta AI icon tha
 --
 
 ## block your chats from triggering Meta AI
+
 while Meta AI does not have access to your chats by default, Meta AI can tagged in any chat by you or the contact you're chatting with, and can be used to summarise content, ask questions or create images based on your chat contents.
 
 unfortunately, this ability must be disabled in each individual chat.
@@ -55,12 +56,18 @@ unfortunately, this ability must be disabled in each individual chat.
 
 --
 
+## archive Meta AI chat
+
+1. another step you can take to hide the AI chat is to archive it or block the chat if available to you.
+
+--
+
 ## see also
 
+- [Facebook](/article/facebook)
 - [LinkedIn](/article/linkedin)
 - [Reddit](/article/reddit)
 - [YouTube](/article/youtube)
-- [WhatsApp](/article/whatsapp)
 
 --
 

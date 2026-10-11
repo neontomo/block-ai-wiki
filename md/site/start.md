@@ -32,20 +32,20 @@ if you want to read my story, you can find it here: [my story](/article/me)
 - [Drive](/article/google-drive)&nbsp;- **NEW! ❤️‍🔥**
 - [Gemini / Assistant](/article/android)
 - [Gmail](/article/gmail)&nbsp;- **NEW! ❤️‍🔥**
-- [Keep](/article/google-keep) - **NEW! ❤️‍🔥**
-- [Maps](/article/google-maps) - **NEW! ❤️‍🔥**
-- [Photos](/article/google-photos) - **NEW! ❤️‍🔥**
+- [Keep](/article/google-keep)&nbsp;- **NEW! ❤️‍🔥**
+- [Maps](/article/google-maps)&nbsp;- **NEW! ❤️‍🔥**
+- [Photos](/article/google-photos)&nbsp;- **NEW! ❤️‍🔥**
 - [Search](/article/google-search)
 - [YouTube](/article/youtube)
 
 #### Meta / Facebook
-- Facebook - coming soon
+- [Facebook](/article/facebook)&nbsp;- **NEW! ❤️‍🔥**
 - Instagram - coming soon
 - [WhatsApp](/article/whatsapp)
 
 #### Microsoft
 - Outlook - coming soon
-- [LinkedIn](/article/linkedin) - **NEW! ❤️‍🔥**
+- [LinkedIn](/article/linkedin)&nbsp;- **NEW! ❤️‍🔥**
 - [VSCode](/article/vscode)
 
 #### others
