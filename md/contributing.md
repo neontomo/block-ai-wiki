@@ -29,4 +29,4 @@ you can also:
 
 ## contact
 
-tomomyrman @ proton . me (remove spaces)
+tomomyrman-removeme@proton.me (remove `-removeme` before sending)
