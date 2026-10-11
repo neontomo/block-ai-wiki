@@ -30,15 +30,17 @@ if you want to read my story, you can find it here: [my story](/article/me)
 
 #### Google
 - [Gemini / Assistant](/article/android)
-- Gmail - coming soon
-- Keep - coming soon
+- [Drive](/article/google-drive)&nbsp;- **NEW! ❤️‍🔥**
+- [Gmail](/article/gmail)&nbsp;- **NEW! ❤️‍🔥**
+- [Keep](/article/google-keep) - **NEW! ❤️‍🔥**
 - [Search](/article/google-search)
 - [YouTube](/article/youtube)
+- [Maps](/article/google-maps) - **NEW! ❤️‍🔥**
 
 #### Meta / Facebook
 - Facebook - coming soon
 - Instagram - coming soon
-- [WhatsApp](/article/whatsapp) - **NEW! ❤️‍🔥**
+- [WhatsApp](/article/whatsapp)
 
 #### Microsoft
 - Outlook - coming soon

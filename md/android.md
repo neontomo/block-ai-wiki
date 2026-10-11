@@ -67,3 +67,15 @@ bear in mind that your phone may have slightly different options.
 most android devices come shipped with many Google apps that have AI features baked in, one option to escape this is to install alternative operating systems like [GrapheneOS](https://grapheneos.org/) if your device supports it.
 
 **disclaimer:** this option requires technical know-how and may result in some phone features being disabled.
+
+--
+
+## see also
+
+- [Google Search](/article/google-search)
+- [Google Drive](/article/google-drive)
+- [Google Keep](/article/google-keep)
+- [Google Maps](/article/google-maps)
+- [Google Photos](/article/google-photos)
+- [Gmail](/article/gmail)
+- [YouTube](/article/youtube)
