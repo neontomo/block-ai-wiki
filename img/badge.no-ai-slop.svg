@@ -1,0 +1,30 @@
+<!-- LICENSED FROM: https://blockai.wiki/ -->
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	width="88"
+	height="20"
+	role="img"
+	aria-label="no AI slop"
+>
+	<title>no AI slop</title>
+
+	<g clip-path="url(#r)">
+		<rect width="37" height="20" fill="#444" />
+		<rect x="37" width="35" height="20" fill="#e7000b" />
+	</g>
+
+	<g
+		fill="#fff"
+		text-anchor="middle"
+		font-family="Arial, Helvetica, sans-serif"
+		text-rendering="geometricPrecision"
+		font-size="110"
+	>
+		<g transform="scale(.1)">
+			<text x="195" y="140" textLength="270">no AI</text>
+		</g>
+		<g transform="scale(.1)">
+			<text x="545" y="140" textLength="300">SLOP</text>
+		</g>
+	</g>
+</svg>
