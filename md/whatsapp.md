@@ -68,6 +68,7 @@ unfortunately, this ability must be disabled in each individual chat.
 - [LinkedIn](/article/linkedin)
 - [Reddit](/article/reddit)
 - [YouTube](/article/youtube)
+- [Signal](/article/signal)
 
 --
 

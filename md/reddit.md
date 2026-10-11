@@ -20,8 +20,17 @@ if you are on an Android phone, you can use the app Morphe to modify your Reddit
 
 --
 
+## mod tools
+
+if you are moderating a subreddit, apps like `Stop AI` can help you identify posts and comments with AI generated content.
+
+- install [Stop AI app](https://developers.reddit.com/apps/stop-ai)
+
+--
+
 ## see also
 
 - [LinkedIn](/article/linkedin)
 - [YouTube](/article/youtube)
 - [WhatsApp](/article/whatsapp)
+- [Signal](/article/signal)

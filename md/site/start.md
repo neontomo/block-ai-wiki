@@ -52,7 +52,7 @@ if you want to read my story, you can find it here: [my story](/article/me)
 - [DuckDuckGo](/article/duckduckgo)
 - [Pinterest](/article/pinterest)&nbsp;- **NEW! ❤️‍🔥**
 - [Reddit](/article/reddit)
-- Signal - coming soon
+- [Signal](/article/signal)
 - Slack - coming soon
 - X / Twitter - coming soon
 
