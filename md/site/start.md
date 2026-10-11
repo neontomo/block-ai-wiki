@@ -50,7 +50,7 @@ if you want to read my story, you can find it here: [my story](/article/me)
 
 #### others
 - [DuckDuckGo](/article/duckduckgo)
-- Pinterest - coming soon
+- [Pinterest](/article/pinterest)&nbsp;- **NEW! ❤️‍🔥**
 - [Reddit](/article/reddit)
 - Signal - coming soon
 - Slack - coming soon
