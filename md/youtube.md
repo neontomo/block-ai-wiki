@@ -67,6 +67,20 @@ TODO: write this part. you can [contribute](/article/contributing) if you like.
 
 --
 
+## opt-out of sharing data from your channel for training AI models
+
+1. go to [YouTube Studio](https://studio.youtube.com/)
+
+2. open `Settings` (cogwheel at the bottom of the screen)
+
+3. press `Channel`
+
+4. go to `Advanced settings`
+
+5. scroll down and toggle `Allow third-party companies to train AI models using my channel content` to `off`
+
+--
+
 ## sources
 
 - [Learn about smart features & controls for Google Workspace & other Google products](https://support.google.com/mail/answer/15604322)
